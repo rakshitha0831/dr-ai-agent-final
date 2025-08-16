@@ -1,5 +1,13 @@
 # DR AI Agent – Diabetic Retinopathy Detection
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Ready-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## Overview
 
 The **DR AI Agent** is an end-to-end deep learning solution designed to detect diabetic retinopathy (DR) from retinal fundus images. It implements a complete machine learning lifecycle — from raw data acquisition to model deployment — with an emphasis on clinical usability, explainability, and scalability.
@@ -81,3 +89,4 @@ Detailed plots (ROC, PR curves, confusion matrices) are stored in the `reports/`
 * Improve sensitivity and recall for severe/proliferative DR.
 * Expand classification to include other retinal diseases.
 * Integrate **LLM-powered chatbot** for clinician and patient-facing interactions.
+
