@@ -1,0 +1,26 @@
+Folder PATH listing for volume OS
+Volume serial number is 2453-B2C4
+C:.
+¦   README.md
+¦   requirements.txt
+¦   structure.txt
+¦   
++---app
+¦       app.py
+¦       
++---data
+¦   +---processed
+¦   +---raw
++---knowledge_base
++---saved_models
++---scripts
+¦       chatbot.py
+¦       download_data.py
+¦       evaluation.py
+¦       grad_cam.py
+¦       preprocess.py
+¦       train_model.py
+¦       utils.py
+¦       __init__.py
+¦       
++---tests

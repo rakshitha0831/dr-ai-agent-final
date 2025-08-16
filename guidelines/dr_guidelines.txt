@@ -1,0 +1,49 @@
+Diabetic Retinopathy (DR) Guidelines
+
+Definition:
+Diabetic Retinopathy is a diabetes complication caused by damage to the blood vessels of the retina. It is a leading cause of vision impairment.
+
+Stages of DR:
+1. No Diabetic Retinopathy – No signs of damage.
+2. Mild Non-Proliferative DR – Microaneurysms present.
+3. Moderate Non-Proliferative DR – Increased microaneurysms, hemorrhages.
+4. Severe Non-Proliferative DR – Blocked blood supply to retina.
+5. Proliferative DR – New abnormal blood vessels grow, leading to vision loss risk.
+
+Symptoms:
+- Blurred vision
+- Dark spots or floaters
+- Difficulty seeing at night
+- Sudden vision loss in advanced stages
+
+Risk Factors:
+- Poor blood sugar control
+- Long duration of diabetes
+- High blood pressure
+- High cholesterol
+- Pregnancy
+
+Screening Recommendations:
+- Type 1 Diabetes: First exam within 5 years of diagnosis, then annually.
+- Type 2 Diabetes: Eye exam at diagnosis, then annually.
+- Pregnant women with diabetes: Eye exam before pregnancy or in first trimester.
+
+Treatment Options:
+- Laser photocoagulation to seal leaking vessels
+- Anti-VEGF injections to reduce abnormal vessel growth
+- Vitrectomy surgery for advanced bleeding in the eye
+- Strict blood sugar, blood pressure, and cholesterol control
+
+Prevention:
+- Maintain good glycemic control (HbA1c < 7%)
+- Manage blood pressure (< 130/80 mmHg)
+- Keep cholesterol within target range
+- Regular eye screening
+
+Emergency Signs (Seek immediate care):
+- Sudden loss of vision
+- Large floaters or flashes of light
+- Severe eye pain
+
+Reference:
+American Academy of Ophthalmology – Diabetic Retinopathy Preferred Practice Pattern Guidelines
