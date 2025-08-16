@@ -90,3 +90,8 @@ Detailed plots (ROC, PR curves, confusion matrices) are stored in the `reports/`
 * Expand classification to include other retinal diseases.
 * Integrate **LLM-powered chatbot** for clinician and patient-facing interactions.
 
+## Author
+
+**Rakshitha Kamarathi Venkatesh**
+📧 Email: [rakshitha0897@gmail.com](mailto:rakshitha0897@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/rakshitha-venkatesh-6824b7306/)
